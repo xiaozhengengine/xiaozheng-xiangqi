@@ -1,3 +1,79 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@xiaozhengengine 
+official-pikafish
+/
+Pikafish
+Public
+Code
+Issues
+1
+Pull requests
+Discussions
+Actions
+Security
+Insights
+Pikafish/AUTHORS
+@PikaCat-OuO
+PikaCat-OuO fix badge links
+Latest commit db5271d last week
+ History
+ 63 contributors
+@snicolet@PikaCat-OuO@Sopel97@Rocky640@ppigazzini@vondele@SFisGOD@glinscott@G-Lorenz@xoto10@Alayan-stk-2@solarlight2
+260 lines (246 sloc)  5.68 KB
+
+# List of authors for Pikafish
+
+# Founders of the Pikafish project
+PikaCat++ (PikaCat-OuO)
+New Horizons (skystarspython)
+d:blue (dhbloo)
+Vincentzyx
+
+# Founders of the fishtest infrastructure, spsa tuner
+Vincentzyx
+d:blue (dhbloo)
+
+# NNUE trainer, Distributed training
+d:blue (dhbloo)
+Vincentzyx
+以往（subarashikihibi）
+PikaCat++ (PikaCat-OuO)
+张大仙 (fengxs001)
+New Horizons (skystarspython)
+
+# Training data generator
+d:blue (dhbloo)
+张大仙 (fengxs001)
+Vincentzyx
+PikaCat++ (PikaCat-OuO)
+New Horizons (skystarspython)
+
+# Technical support
+Fabian Fichter (ianfab)
+陶然 (pickaxe919)
+以往（subarashikihibi）
+
+# Bug hunting, Chasing rule
+Fabian Fichter (ianfab)
+New Horizons (skystarspython)
+陶然 (pickaxe919)
+afkbad (xiangqishare)
+Vincentzyx
+wxc
+
+# JieQi Development
+张大仙 (fengxs001)
+
+# Logo Design
+Celine chen，水殿風來
+
 # List of authors for Stockfish
 
 # Founders of the Stockfish project and fishtest infrastructure
@@ -39,7 +115,6 @@ Boštjan Mejak (PedanticHacker)
 braich
 Brian Sheppard (SapphireBrand, briansheppard-toast)
 Bruno de Melo Costa (BM123499)
-Bruno Pellanda (pellanda)
 Bryan Cross (crossbr)
 candirufish
 Chess13234
@@ -51,7 +126,6 @@ Daniel Axtens (daxtens)
 Daniel Dugovic (ddugovic)
 Dariusz Orzechowski (dorzechowski)
 David Zar
-David (dav1312)
 Daylen Yang (daylen)
 Deshawn Mohan-Smith (GoldenRare)
 Dieter Dobbelaere (ddobbelaere)
@@ -91,7 +165,7 @@ Hongzhi Cheng
 Ivan Ivec (IIvec)
 Jacques B. (Timshel)
 Jan Ondruš (hxim)
-Jared Kish (Kurtbusch, kurt22i)
+Jared Kish (Kurtbusch)
 Jarrod Torriero (DU-jdto)
 Jean Gauthier (OuaisBla)
 Jean-Francois Romang (jromang)
@@ -161,18 +235,17 @@ Panthee
 Pascal Romaret
 Pasquale Pigazzini (ppigazzini)
 Patrick Jansen (mibere)
+pellanda
 Peter Schneider (pschneider1968)
 Peter Zsifkovits (CoffeeOne)
-PikaCat
 Praveen Kumar Tummala (praveentml)
 Rahul Dsilva (silversolver1)
 Ralph Stößer (Ralph Stoesser)
 Raminder Singh
 renouve
-Reuven Peleg (R-Peleg)
-Richard Lloyd (Richard-Lloyd)
+Reuven Peleg
+Richard Lloyd
 Rodrigo Exterckötter Tjäder
-Rodrigo Roim (roim)
 Ron Britvich (Britvich)
 Ronald de Man (syzygy1, syzygy)
 rqs
@@ -215,3 +288,18 @@ zz4032
 # an amazing and essential framework for the development of Stockfish!
 #
 # https://github.com/glinscott/fishtest/blob/master/AUTHORS
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Pikafish/AUTHORS at master · official-pikafish/Pikafish
